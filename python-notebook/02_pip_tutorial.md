@@ -1,6 +1,13 @@
 [TOC]
 
 
+```
+python -m pip install -U module_name
+
+pip install -U prettytable
+
+```
+
 
 # Addition
 [pip documentation v24.3.1](https://pip.pypa.io/en/stable/getting-started/)
